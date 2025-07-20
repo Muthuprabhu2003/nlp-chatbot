@@ -1,8 +1,3 @@
-﻿# Creating the README.md file with the chatbot description content
-
-readme_content = """
-# 📄 Local PDF Q&A Chatbot using NLP
-
 This is a simple but powerful chatbot that can **answer questions based on the content of any uploaded PDF document** using Natural Language Processing (NLP). It leverages `LangChain`, `HuggingFace`, and `FAISS` to provide context-aware responses.
 
 ## 🚀 Features
